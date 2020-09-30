@@ -2,22 +2,22 @@
 
 Install Dependencies using below commands
 
-install boiler plate:
+#install boiler plate:
 npm init -y
 
-install express,mongoose,ejs
+#install express,mongoose,ejs:
  npm i express mongoose ejs
 
-install dev dependencies
+#install dev dependencies:
 npm i --save-dev nodemon
 
-install marked and slugify
+#install marked and slugify:
 npm i marked slugify
 
-to use delete route:
+#to use delete route:
 npm i method-override
 
-sanitize HTML
+#sanitize HTML:
 npm i dompurify jsdom
 
 run:
